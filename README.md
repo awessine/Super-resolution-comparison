@@ -52,4 +52,4 @@
 - Расширение обучающей выборки и **data augmentation**  
 
 ## Ссылка на блокнот  
-[Открыть в Google Colab](https://colab.research.google.com/drive/1QskSmazJx_mMMC8jf2N21W5tquZtIlCN?usp=drive_open)  
+[Super-resolution-comparison.ipynb](Super-resolution-comparison.ipynb)  
